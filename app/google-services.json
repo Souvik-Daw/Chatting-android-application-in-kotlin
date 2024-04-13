@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "111924025196",
+    "firebase_url": "https://todo-with-kotlin-default-rtdb.firebaseio.com",
+    "project_id": "todo-with-kotlin",
+    "storage_bucket": "todo-with-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111924025196:android:0dfb8de478da906ee84549",
+        "android_client_info": {
+          "package_name": "com.codingcircle.chattingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-A2OqBSkNHiwdGpr_WRB53K4Yj9P84WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
